@@ -2,6 +2,8 @@
 
 # Description
 
+Given starter code for the front-end, the challenge here was to build the back-end of a note-taking app. It uses Express.js for the server, and API & HTML routes to create & render new notes and delete old ones.
+
 # Table of Contents
 
 * [Installation](#installation)
